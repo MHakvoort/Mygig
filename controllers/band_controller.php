@@ -6,6 +6,11 @@ class BandController
     {
         require_once('views/band/index.php');
     }
+
+    public function error()
+    {
+
+    }
 }
 
 ?>

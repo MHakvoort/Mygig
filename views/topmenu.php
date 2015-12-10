@@ -15,11 +15,11 @@
         <!-- notification dropdown start-->
         <ul class="nav pull-right top-menu">
 
-            <?=(isset($_SESSION['user_id'])) ? require_once('views/default/messages.php') : '' ?>
+            <?= (isset($_SESSION['user_id'])) ? require_once('views/default/messages.php') : '' ?>
 
-            <?php if(isset($_SESSION['user_id'])){
-                require_once('views/default/user_data.php'); }
-            else {
+            <?php if (isset($_SESSION['user_id'])) {
+                require_once('views/default/user_data.php');
+            } else {
                 require_once('views/default/no_user_data.php');
             } ?>
         </ul>

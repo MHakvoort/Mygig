@@ -73,21 +73,21 @@ table tr th { color: #688a7e;}
     background-color: #f1f2f7;
 }
 .login-img-body{
-  background: url('../../../../../../Downloads/NiceAdmin/NiceAdmin/img/bg-1.jpg') no-repeat center center fixed;
+  background: url('/content/images/bg-1.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .login-img2-body{
-  background: url('../../../../../../Downloads/NiceAdmin/NiceAdmin/img/bg-1.jpg') no-repeat center center fixed;
+  background: url('/content/images/bg-1.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .login-img3-body{
-  background: url('../../../../../../Downloads/NiceAdmin/NiceAdmin/img/bg-1.jpg') no-repeat center center fixed;
+  background: url('/content/images/bg-1.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -618,7 +618,7 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
 .navbar-form .form-control{
     width: 200px;
     height: 30px;
-    background: white url('../../../../../../Downloads/NiceAdmin/NiceAdmin/img/icons/search-line-icon.png') no-repeat 3px;
+    background: white url('/content/images/icons/search-line-icon.png') no-repeat 3px;
     padding-left: 24px;
     margin-top: 1px;    
 }
@@ -862,7 +862,7 @@ div[data-role="editor-toolbar"] {
 }
 
 .log-arrow-up {
-    background: url("../../../../../../Downloads/NiceAdmin/NiceAdmin/img/arrow-up.png") no-repeat;
+    background: url("/content/images/arrow-up.png") no-repeat;
     width: 20px;
     height: 11px;
     position: absolute;
@@ -1767,7 +1767,7 @@ div[data-role="editor-toolbar"] {
     transition: all .3s ease;
     border: 1px solid #fff;
     box-shadow: none;
-    background: url("../../../../../../Downloads/NiceAdmin/NiceAdmin/img/search-icon.jpg") no-repeat 10px 8px;
+    background: url("/content/images/search-icon.jpg") no-repeat 10px 8px;
     padding:0 5px 0 35px;
     color: #fff;
 }
@@ -1878,7 +1878,7 @@ div[data-role="editor-toolbar"] {
     padding: 0px;
 }
 .panel-body.chart-texture {
-    background: url("../../../../../../Downloads/NiceAdmin/NiceAdmin/img/chart-texture.jpg");
+    background: url("/content/images/chart-texture.jpg");
     -webkit-border-radius: 4px 4px 0px 0px;
     border-radius: 4px 4px 0px 0px;
     padding: 0px;
@@ -2219,7 +2219,7 @@ ul.ft-link li a i {
 
 .owl-buttons .owl-prev {
     text-indent: -9999px;
-    background: url("../../../../../../Downloads/NiceAdmin/NiceAdmin/img/left-arrow.png") no-repeat;
+    background: url("/content/images/left-arrow.png") no-repeat;
     width: 6px;
     height: 10px;
     display: inline-block;
@@ -2227,7 +2227,7 @@ ul.ft-link li a i {
 
 .owl-buttons .owl-next {
     text-indent: -9999px;
-    background: url("../../../../../../Downloads/NiceAdmin/NiceAdmin/img/right-arrow.png") no-repeat;
+    background: url("/content/images/right-arrow.png") no-repeat;
     width: 6px;
     height: 10px;
     display: inline-block;
@@ -4429,19 +4429,19 @@ table.sliders tr td {
 }
 
 .has-js .label_radio {
-    background: url(../img/checkbox/radio-off.png) no-repeat;
+    background: url('/content/images/checkbox/radio-off.png') no-repeat;
 }
 
 .has-js .label_check {
-    background: url(../img/checkbox/check-off.png) no-repeat;
+    background: url('/content/images/checkbox/check-off.png') no-repeat;
 }
 
 .has-js label.c_on {
-    background: url(../img/checkbox/check-on.png) no-repeat;
+    background: url('/content/images/checkbox/check-on.png') no-repeat;
 }
 
 .has-js label.r_on {
-    background: url(../img/checkbox/radio-on.png) no-repeat;
+    background: url('/content/images/checkbox/radio-on.png') no-repeat;
 }
 
 .has-js .label_check input,
@@ -4936,5 +4936,5 @@ span.customSelect.changed {
     background-color: #fff;
 }
 .customSelectInner {
-    background:url(../../../../../../Downloads/NiceAdmin/NiceAdmin/img/customSelect-arrow.gif) no-repeat center right;
+    background:url('/content/images/customSelect-arrow.gif') no-repeat center right;
 }

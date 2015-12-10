@@ -9,6 +9,18 @@
                     <span>Dashboard</span>
                 </a>
             </li>
+            <li class="">
+                <a class="" href="?controller=event&action=index">
+                    <i class="fa fa-fw fa-users"></i>
+                    <span>Evenementen</span>
+                </a>
+            </li>
+            <li class="">
+                <a class="" href="?controller=band&action=index">
+                    <i class="fa fa-fw fa-music"></i>
+                    <span>Bands</span>
+                </a>
+            </li>
         </ul>
         <!-- sidebar menu end-->
     </div>

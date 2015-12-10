@@ -55,9 +55,7 @@
     <!-- javascripts -->
     <script src="/scripts/js/jquery.js"></script>
     <script src="/scripts/js/bootstrap.min.js"></script>
-    <!-- nice scroll -->
     <script src="/scripts/js/jquery.scrollTo.min.js"></script>
-    <script src="/scripts/js/jquery.nicescroll.js" type="text/javascript"></script><!--custome script for all page-->
     <script src="/scripts/js/scripts.js"></script>
 
 
